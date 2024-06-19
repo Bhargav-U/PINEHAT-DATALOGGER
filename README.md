@@ -24,7 +24,7 @@ Ideal for beginners, PineHat combines multiple components into a single, easy-to
 
 ## Schematic and Gerber Files
 
-For detailed reference, the schematic and Gerber files for the PCB design are included in the project. These files can be found in the respective directories within the project folder.
+For detailed reference, the schematic and Gerber files for the PCB design are included in the project.
 
 ---
 
