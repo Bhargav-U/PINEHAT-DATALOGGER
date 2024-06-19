@@ -1,4 +1,4 @@
-<h1 align="center">PINEHAT</h1>
+<h1 align="center">PINEHAT1</h1>
 
 <table>
   <tr>
@@ -9,7 +9,8 @@
 
 
 
-**PineHat** is a versatile shield for the ESP32 microcontroller, featuring a micro SD card slot, DS3231 RTC with CR2302 battery, and a 0.96-inch OLED screen. Its stackable design reduces wiring and keeps all GPIO pins accessible, with no interference from the OLED or battery.
+**PineHats** are  versatile shields for the ESP32 microcontroller.They come in multiple versions like,datalogger,buck converter etc.
+This PineHat features a micro SD card slot, DS3231 RTC with CR2302 battery, and a 0.96-inch OLED screen. Its stackable design reduces wiring and keeps all GPIO pins accessible, with no interference from the OLED or battery.
 
 Ideal for beginners, PineHat combines multiple components into a single, easy-to-use module.
 
