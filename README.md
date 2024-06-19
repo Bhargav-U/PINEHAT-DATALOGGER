@@ -1,7 +1,12 @@
 <h1 align="center">PINEHAT</h1>
 
-![PineHat 3D PCB](PINE%20HAT%20PICTURES/Screenshot%20from%202024-06-19%2018-17-41.png)
-![PineHat 3D PCB](PINE%20HAT%20PICTURES/Screenshot%20from%202024-06-19%2018-17-50.png)
+<table>
+  <tr>
+    <td><img src="PINE%20HAT%20PICTURES/Screenshot%20from%202024-06-19%2018-17-41.png" alt="PineHat 3D PCB" width="500"/></td>
+    <td><img src="PINE%20HAT%20PICTURES/Screenshot%20from%202024-06-19%2018-17-50.png" alt="PineHat 3D PCB" width="500"/></td>
+  </tr>
+</table>
+
 
 
 **PineHat** is a versatile shield for the ESP32 microcontroller, featuring a micro SD card slot, DS3231 RTC with CR2302 battery, and a 0.96-inch OLED screen. Its stackable design reduces wiring and keeps all GPIO pins accessible, with no interference from the OLED or battery.
